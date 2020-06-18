@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Darma</string>
+    <string name="darma_title">だるま　</string>
+    <string name="createtxt">作成</string>
+    <string name="eyetxt">目を入れる</string>
+    <string name="donetxt">完成しただるま</string>
+    <string name="darma_aim">目標</string>
+    <string name="darma_text_string" />
+</resources>
